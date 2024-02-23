@@ -39,7 +39,8 @@ gradle test
 Descargar los siguientes reportes, los cuales nos permiten tener un informe detallado de las pruebas automatizadas y su estado final:
 ```bash
 "build/reports/tests/test/index.html" - Se generan una vez compilado y ejecutados los test
-"target/site/serenity/index.html"
+"target/site/serenity/index.html" - Se generan una vez compilado y ejecutados los test
+"Reports.html" - Reporte principal de las pruebas automatizadas
 ```
 
 #### Nota
