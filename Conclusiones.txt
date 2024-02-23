@@ -1,0 +1,23 @@
+Automatización E2E
+- Se crean interfaces(page) por cada página que se interactúa en el flujo
+- Mediante el uso de un Actor se ejecutan todos los pasos o tareas para completar una compra
+- Manejo de Scenario Outline para cargar la información del cliente
+- Se identifican los elementos web, mediante Id o Xpath
+- Integración del patrón de diseño POM
+- Uso del lenguaje Gherkin para la descripción de las pruebas
+- Integración de reportería con Cucumber
+- Configuración del driver de Chrome con Serenity para la navegación
+- Uso de step definitions para ejecutar los escenarios que se indican en los .feature
+
+Reportes
+- Gráfica y porcentaje del resultado de los Test (Passed/Fail)
+- Indican el tiempo de inicio y finalización de los Tests
+- Tags definidos en cada .feature para su mayor control
+- Duración total y de cada uno de los Test
+- Features y Scenarios ejecutados
+- Información ingresada mediante Scenarios Outline
+- Steps o pasos de cada Scenario
+- Tiempo de ejecución de cada Steps
+- Screenshots por cada acción ejecutada
+- Estado final de cada Steps
+- Estadísticas de cada Scenario, Test y sus tiempos
